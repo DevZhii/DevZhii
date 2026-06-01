@@ -1,7 +1,7 @@
 <!-- TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=700&amp;height=120&amp;lines=const+dev+%3D+new+Builder();+%F0%9F%94%A8;dev.target+%3D+%22The+Master+Builder+by+2030%22;+%F0%9F%8E%AF;dev.transform(%22vision+%E2%86%92+reality%22);+%F0%9F%9A%80;%2F%2F+Reliable.+Scalable.+Built+to+Endure.+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=700&amp;height=120&amp;lines=const+dev+%3D+new+Builder();dev.target+%3D+%22The+Master+Builder+by+2030%22;dev.transform(%22vision+%E2%86%92+reality%22);%2F%2F+Reliable.+Scalable.+Built+to+Endure." alt="Typing SVG" />
   </a>
 </div>
 
