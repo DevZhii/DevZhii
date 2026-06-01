@@ -128,13 +128,13 @@ const DevZhii = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevZhii&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=050510&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=e2e8f0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevZhii&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=050510&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=e2e8f0&amp;cache_seconds=1800" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZhii&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=050510&amp;title_color=00D9FF&amp;text_color=e2e8f0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZhii&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=050510&amp;title_color=00D9FF&amp;text_color=e2e8f0&amp;cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevZhii&amp;theme=tokyonight&amp;hide_border=true&amp;background=050510&amp;ring=00D9FF&amp;fire=ff6e96&amp;currStreakLabel=00D9FF" />
+  <img src="https://streak-stats.demolab.com/?user=DevZhii&amp;theme=tokyonight&amp;hide_border=true&amp;background=050510&amp;ring=00D9FF&amp;fire=ff6e96&amp;currStreakLabel=00D9FF" />
 </div>
 
 <br/>
