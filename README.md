@@ -1,8 +1,3 @@
-<!-- HEADER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050510,50:0a0a2e,100:1a1a4e&amp;height=200&amp;section=header&amp;text=DevZhii&amp;fontSize=60&amp;fontColor=00d9ff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Builder%20%7C%20Full%20Stack%20%26%20Mobile%20%7C%20Reverse%20Engineer&amp;descAlignY=62&amp;descSize=15&amp;descColor=8892b0" />
-</div>
-
 <!-- TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -128,12 +123,6 @@ const DevZhii = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevZhii&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=050510&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=e2e8f0&amp;cache_seconds=1800" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZhii&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=050510&amp;title_color=00D9FF&amp;text_color=e2e8f0&amp;cache_seconds=1800" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=DevZhii&amp;theme=tokyonight&amp;hide_border=true&amp;background=050510&amp;ring=00D9FF&amp;fire=ff6e96&amp;currStreakLabel=00D9FF" />
 </div>
 
@@ -224,6 +213,10 @@ const DevZhii = {
   &nbsp;
   <a href="mailto:zhiitian81@gmail.com">
     <img src="https://img.shields.io/badge/Email-zhiitian81@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/elelqezhi">
+    <img src="https://img.shields.io/badge/Telegram-@elelqezhi-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" />
   </a>
 </div>
 
