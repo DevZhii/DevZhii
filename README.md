@@ -1,12 +1,12 @@
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:0a0a2e,100:1a1a4e&height=200&section=header&text=DevZhii&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=40&desc=Master%20Builder%20%7C%20Full%20Stack%20%26%20Mobile%20%7C%20Reverse%20Engineer&descAlignY=62&descSize=15&descColor=8892b0" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:0a0a2e,100:1a1a4e&height=200&section=header&text=DevZhii&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=40&desc=Builder%20%7C%20Full%20Stack%20%26%20Mobile%20%7C%20Reverse%20Engineer&descAlignY=62&descSize=15&descColor=8892b0" />
 </div>
 
 <!-- TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=620&height=100&lines=const+dev+%3D+new+MasterBuilder();+%F0%9F%94%A8;dev.transform(%22vision+%E2%86%92+reality%22);+%F0%9F%9A%80;%2F%2F+Reliable.+Scalable.+Built+to+Endure.+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=const+dev+%3D+new+Builder();+%F0%9F%94%A8;dev.target+%3D+%22The+Master+Builder+by+2030%22;+%F0%9F%8E%AF;dev.transform(%22vision+%E2%86%92+reality%22);+%F0%9F%9A%80;%2F%2F+Reliable.+Scalable.+Built+to+Endure.+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,7 +34,8 @@
 
 ```typescript
 const DevZhii = {
-  title:     "The Master Builder 🔨",
+  title:     "Builder 🔨",
+  target:    "The Master Builder — 2030 🎯",
   role:      "Full Stack & Mobile Developer",
   portfolio: "https://master-builder-delta.vercel.app/",
   github:    "https://github.com/DevZhii",
@@ -143,21 +144,57 @@ const DevZhii = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/DevZhii/VoidTrade">
-    <img src="assets/projects/voidtrade.png" width="48%" alt="VoidTrade" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DevZhii/MakalahWeb">
-    <img src="assets/projects/makalahweb.png" width="48%" alt="Makalah AI Generator" />
-  </a>
-</div>
 
-<br/>
+<table width="100%" cellpadding="0" cellspacing="12" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/DevZhii/VoidTrade">
+        <img src="assets/projects/voidtrade.png"
+             width="100%"
+             alt="VoidTrade"
+             style="border-radius:10px" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/DevZhii/VoidTrade">
+        <img src="https://img.shields.io/badge/📈_VoidTrade-View_Repo-00d9ff?style=for-the-badge&labelColor=0a0a2e" />
+      </a>
+      <br/>
+      <sub>Laravel · Livewire · Tailwind · AI API · WebSocket · SQLite</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/DevZhii/MakalahWeb">
+        <img src="assets/projects/makalahweb.png"
+             width="100%"
+             alt="Makalah AI Generator"
+             style="border-radius:10px" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/DevZhii/MakalahWeb">
+        <img src="https://img.shields.io/badge/🤖_Makalah_AI-View_Repo-a78bfa?style=for-the-badge&labelColor=0a0a2e" />
+      </a>
+      <br/>
+      <sub>Python · Gemini AI · Vanilla JS · CSS3 · python-docx</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <a href="https://github.com/DevZhii/SystemPanel">
+        <img src="assets/projects/reverseengineering.png"
+             width="60%"
+             alt="Reverse Engineering"
+             style="border-radius:10px" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/DevZhii/SystemPanel">
+        <img src="https://img.shields.io/badge/🔍_Reverse_Engineering-View_Repo-ff6e96?style=for-the-badge&labelColor=0a0a2e" />
+      </a>
+      <br/>
+      <sub>Ghidra · IDA Pro · Frida · x64dbg · Assembly · APK Analysis</sub>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://github.com/DevZhii/SystemPanel">
-    <img src="assets/projects/reverseengineering.png" width="48%" alt="Reverse Enginering" />
-  </a>
 </div>
 
 <br/>
@@ -202,5 +239,5 @@ const DevZhii = {
 <div align="center">
   <i>"I transform vision into reality — architecting digital products that are reliable, scalable, and built to endure."</i>
   <br/><br/>
-  <strong style="color:#00d9ff">DevZhii · The Master Builder 🔨</strong>
+  <strong style="color:#00d9ff">DevZhii · Builder 🔨 → The Master Builder 2030 🎯</strong>
 </div>
