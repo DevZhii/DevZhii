@@ -182,7 +182,7 @@ const DevZhii = {
         <img src="https://img.shields.io/badge/🔍_Reverse_Engineering-View_Repo-ff6e96?style=for-the-badge&amp;labelColor=0a0a2e" />
       </a>
       <br/>
-      <sub>Ghidra · IDA Pro · Frida · x64dbg · Assembly · APK Analysis</sub>
+      <sub>C++ · IDA Pro · Frida · Imgui · Assembly · Android Studio · MT Manager</sub>
     </td>
   </tr>
 </table>
