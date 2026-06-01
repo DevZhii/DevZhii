@@ -89,6 +89,7 @@ const DevZhii = {
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" />
 </div>
 
@@ -104,6 +105,7 @@ const DevZhii = {
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&amp;logo=replit&amp;logoColor=white" />
 </div>
 
 ### 🔍 Reverse Engineering
@@ -113,6 +115,7 @@ const DevZhii = {
   <img src="https://img.shields.io/badge/x64dbg-1C1C1C?style=for-the-badge&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Frida-FF6E96?style=for-the-badge&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/radare2-000000?style=for-the-badge&amp;logo=radare&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&amp;logoColor=white" />
 </div>
 
